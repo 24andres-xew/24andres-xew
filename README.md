@@ -26,7 +26,7 @@
   <div align="center">
     <h4>- Frontend</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,react,vite,nextjs,astro,tailwind,css,sass,bootstrap" />
+        <img src="https://skillicons.dev/icons?i=js,react,vite,nextjs,tailwind,css,sass,bootstrap" />
       </a>
   </div>
   </br>
@@ -44,7 +44,7 @@
   <h2 align="center"> 💻 Software and Tools </h2>
   <div align="center">
         <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,ubuntu,github,git,figma,notion,discord,azure,wordpress,postgres,mysql" />
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,ubuntu,github,git,notion,discord,azure,wordpress,postgres,mysql" />
       </a>
   </div>
   <br>
