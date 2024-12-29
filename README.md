@@ -26,7 +26,7 @@
   <div align="center">
     <h4>- Frontend</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,react,vite,nextjs,tailwind,css,bootstrap" />
+        <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,css,bootstrap" />
       </a>
   </div>
   </br>
@@ -34,7 +34,7 @@
   <div align="center">
     <h4>- Backend </h4>  
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,py,html" />
+        <img src="https://skillicons.dev/icons?i=php,ts,html" />
       </a>
   </div>
   <br>
