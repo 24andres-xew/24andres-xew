@@ -34,7 +34,7 @@
   <div align="center">
     <h4>- Backend </h4>  
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,ts,c#,.net" />
+        <img src="https://skillicons.dev/icons?i=php,ts,c#,net" />
       </a>
   </div>
   <br>
