@@ -26,7 +26,7 @@
   <div align="center">
     <h4>- Frontend</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap" />
+        <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
       </a>
   </div>
   </br>
@@ -34,7 +34,7 @@
   <div align="center">
     <h4>- Backend </h4>  
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,ts,c#,net" />
+        <img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,express" />
       </a>
   </div>
   <br>
@@ -44,7 +44,7 @@
   <h2 align="center"> 💻 Software and Tools </h2>
   <div align="center">
         <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,ubuntu,github,git,notion,discord,postgres,mysql" />
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,ubuntu,github,git,discord,postgres,mysql,postman" />
       </a>
   </div>
   <br>
