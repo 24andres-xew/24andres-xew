@@ -11,7 +11,7 @@
 
   <div align ="left"> 
     <h3>👨🏽‍💻 About Me:</h3>
-      <p>•📚 Currently learning: <b>Front-end development with React.js, Astro, Tailwind CSS,<br>with JavaScript and TypeScript. I am looking for my first experience as a developer.</b></p>
+      <p>•📚 Currently learning: <b>Software developer with experience in React.js, Tailwind CSS, JavaScript, and TypeScript. Actively seeking my first professional opportunity to grow and contribute to building tech solutions.</b></p>
       <p>•ℹ️ Hobbies: <b>Gaming 🎮 | Music 🎧 | Exercise 🏃 | F1 🏎️</b></p>
       <p>•💬 Ask me about: <b>Anything, I love learning new things.</b></p>
       <p>•📫 How to contact me: <b>andresquiroztriana@gmail.com</b></p>
